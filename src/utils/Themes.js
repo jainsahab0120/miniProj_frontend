@@ -1,0 +1,17 @@
+export const lightTheme = {
+  bg: "#FFFFFF",
+  bgLight: "#F9F9F9",
+  primary: "#4D96FF",
+  secondary: "#6BCB77",
+  text_primary: "#2D3436",
+  text_secondary: "#636E72",
+  card: "#FFFFFF",
+  button: "#4D96FF",
+  white: "#FFFFFF",
+  black: "#000000",
+  green: "#6BCB77",
+  yellow: "#FFD93D",
+  red: "#FF6B6B",
+  orange: "#FFA07A",
+  shadow: "rgba(0, 0, 0, 0.1)",
+};
